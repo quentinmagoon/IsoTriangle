@@ -35,7 +35,7 @@ public class IsoTriangle {
     public static void addSpaces(int length){
     
 
-        for (int j = 1; j <= j; j++) {
+        for (int i = 1; i <= i; i++) {
             System.out.print(" ");
         }
       System.out.println();
